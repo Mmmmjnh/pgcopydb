@@ -1,1 +1,1 @@
-FROM gcr.io/dbdpg/pgcopydb:latest
+FROM  dimitri/pgcopydb:v0.17
